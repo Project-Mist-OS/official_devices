@@ -2,13 +2,13 @@
   "response": [
     {
       "datetime": 1724819859,
-      "size": 2737015102,
-      "filehash": "18c29d822632704c58f8c90a9d7a45d7",
-      "filename": "MistOS-2.7-Fuji-surya-OFFICIAL-GAPPS-1530-20240828.zip",
-      "id": "26f20328cc5a40ff7296337ccf0f21770d24b13c64b99fb5d94fb75d81f21636",
+      "size": 2737031579,
+      "filehash": "c2c5e0cfa52326545d587785db856f89",
+      "filename": "MistOS-2.8-Silicon-surya-OFFICIAL-GAPPS-1704-20240828.zip",
+      "id": "44f1dae9d4addde93f0ff6b5bbf9f3fd56151bc2646c79d69be89af773dfdc74",
       "romtype": "OFFICIAL",
-      "version": "2.7",
-      "url": "https://sourceforge.net/projects/project-mistos/files/surya/MistOS-2.7-Fuji-surya-OFFICIAL-GAPPS-1530-20240828.zip/download"
+      "version": "2.8",
+      "url": "https://sourceforge.net/projects/project-mistos/files/surya/MistOS-2.8-Silicon-surya-OFFICIAL-GAPPS-1704-20240828.zip/download"
     }
   ]
 }
