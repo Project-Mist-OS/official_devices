@@ -2,13 +2,14 @@
   "response": [
     {
       "datetime": 1725210786,
-      "size": 2753518223,
-      "filehash": "2959022b175a769943f6d79551deddeb",
-      "filename": "MistOS-2.8-SawTooth-surya-OFFICIAL-GAPPS-1636-20240902.zip",
-      "id": "3b9305d997d1b173caabbe4ac68dbc1d3c5b96ace5f39a8fe0f4e2af1428bc1a",
+      "size": 2753523988,
+      "filehash": "76318f5212158ca3d1037a0954d23aa8",
+      "filename": "MistOS-2.9-Cyrix-surya-OFFICIAL-GAPPS-1731-20240902.zip",
+      "id": "e4dee3cc62dfbcfc84e48f3c4176e563e3b26a21a15090c959f1e9fa472e03eb",
       "romtype": "OFFICIAL",
-      "version": "2.8",
-      "url": "https://sourceforge.net/projects/project-mistos/files/Android14/surya/MistOS-2.8-SawTooth-surya-OFFICIAL-GAPPS-1636-20240902.zip/download"
+      "version": "2.9",
+      "maintainer": "Zabuka",
+      "url": "https://sourceforge.net/projects/project-mistos/files/Android14/surya/MistOS-2.9-Cyrix-surya-OFFICIAL-GAPPS-1731-20240902.zip/download"
     }
   ]
 }
