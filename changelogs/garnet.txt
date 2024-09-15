@@ -4,6 +4,21 @@ Device: Garnet
 Device maintainer: JYR_RC
 
 =====================
+15th September,2024
+=====================
+Device:
+- Ota support
+- Few more memory leak fixes
+- Improved thermal engine
+
+Sources:
+- Add Lock/unlock custom Sounds
+- Add option to clear cache Automatically
+- Fixed QuickTap crash on aap select
+- Fix crashing on custom color selection
+- Fixup some bug & Ui improvements
+
+=====================
 08th September,2024
 =====================
 - Initial build
