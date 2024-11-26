@@ -1,8 +1,0 @@
-Device Specific Changelogs:
-Build type: OFFICIAL (Monthly)
-Device: Surya
-Device maintainer: Zabuka
-
-=====================
-02th September,2024
-=====================
