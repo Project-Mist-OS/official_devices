@@ -1,0 +1,14 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: sky
+Device maintainer: Dhanush
+
+=====================
+06th December,2024
+=====================
+Device:
+- Android 15 build
+- Integrity pass default
+- Gcam added
+- Inner tune added
+- BCR added (basic call recording)
