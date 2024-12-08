@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "JYR_RC",
+			"oem": "Xiaomi",
+			"device": "Redmi note 13 pro 5G",
+			"filename": "MistOS-3.0-BETA-OFFICIAL-20241208-GAPPS-garnet.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/garnet/MistOS-3.0-BETA-OFFICIAL-20241208-GAPPS-garnet.zip/download",
+			"timestamp": 1733674085,
+			"md5": "7ff07862badf7f22f439e298261f294b",
+			"sha256": "162fb3aa3c98f67810afdb2ce1bacacf14771f4aae36f538610159a8427dbb30",
+			"size": 2699393041,
+			"version": "3.0-Nebula",
+			"buildtype": "Beta",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://www.paypal.com/paypalme/ShukakuZa?country.x=IN&locale.x=en_GB",
+			"telegram": "https://t.me/garnet_support_JYR_RC",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
