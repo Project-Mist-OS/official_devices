@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Dhanush",
+			"oem": "xiaomi",
+			"device": "Poco m6pro 5g/Redmi 12 5g/Redminote 12R",
+			"filename": "MistOS-3.0-BETA-OFFICIAL-20241208-GAPPS-sky.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/sky/MistOS-3.0-BETA-OFFICIAL-20241208-GAPPS-sky.zip/download",
+			"timestamp": 1733623743,
+			"md5": "0915d42d9f0af1942787b45acb41c387",
+			"sha256": "48e589715faeaf8746bbfe94da8c10016461c362998e9b46a0aea14177e6da7b",
+			"size": 2063303937,
+			"version": "3.0-Nebula",
+			"buildtype": "Beta",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/dhanush369?country.x=IN&locale.x=en_GB",
+			"telegram": "https://t.me/Redmi125GSupport",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
