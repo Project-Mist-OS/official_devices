@@ -12,3 +12,10 @@ Device:
 - Gcam added
 - Inner tune added
 - BCR added (basic call recording)
+
+=====================
+10th December,2024
+=====================
+Device:
+- Pixel launcher (circle to search)
+- misc improvements
