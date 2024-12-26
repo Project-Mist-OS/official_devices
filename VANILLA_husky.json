@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "GamerBoy1234294",
+			"oem": "Google",
+			"device": "Pixel 8 Pro",
+			"filename": "MistOS-3.0.1-BETA-OFFICIAL-20241226-VANILLA-husky.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/husky/VANILLA/MistOS-3.0.1-BETA-OFFICIAL-20241226-VANILLA-husky.zip/download",
+			"timestamp": 1735173094,
+			"md5": "542f13db7e3c50799764a09947b696a2",
+			"sha256": "e1caa35a3b6afc518b4b3934e693aaac97d55e21650aa2a820098108ae78c0a7",
+			"size": 1687941280,
+			"version": "3.0.1-Haze",
+			"buildtype": "Beta | Vanilla | Official",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://ko-fi.com/gamerboy1234294",
+			"telegram": "https://t.me/GamerBoy1234294",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}

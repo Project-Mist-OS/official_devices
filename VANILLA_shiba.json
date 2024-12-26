@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "GamerBoy1234294",
+			"oem": "Google",
+			"device": "Pixel 8",
+			"filename": "MistOS-3.0.1-BETA-OFFICIAL-20241226-VANILLA-shiba.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/shiba/VANILLA/MistOS-3.0.1-BETA-OFFICIAL-20241226-VANILLA-shiba.zip/download",
+			"timestamp": 1735173870,
+			"md5": "1bab01e6d2788734d306fda4b1a94253",
+			"sha256": "8bc62c4140cbf36ea225dec3e6c8ffbc0516617d2e78203ea0767e2df411abcb",
+			"size": 1678924171,
+			"version": "3.0.1-Haze",
+			"buildtype": "Beta | Vanilla | Official",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://ko-fi.com/gamerboy1234294",
+			"telegram": "https://t.me/GamerBoy1234294",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
