@@ -4,6 +4,38 @@ Device: Garnet
 Device maintainer: JYR_RC
 
 =====================
+25th December,2024
+=====================
+Device:
+- Integrity pass default
+- Increase more minimum brightness level
+- Enable refresh rate controls in settings
+- Enable smart pixeles
+- Added support volume steps
+- Added toggle refresh rate in qs
+- Update pixel pitch
+- Adjust statusbar padding
+- Thanks grewal and kleidione for source base tree
+- Thanks team MistOS
+
+Sources:
+- Fixed LMOFreeform service & sidebar
+- Added notification style & progress bar (credit to Rising)
+- Added header clock style 
+- Revamped setting Homepage Ui
+- Redesign About Phone Ui
+- Redesign MistLauncher Ui (Credit to LMODroid)
+- Added dual tone QS background 
+- Added split notification shade
+- Added OEM fast charging 
+- Added auto sleep mode
+- Added Smart5G - with toggle in internet connectivity 
+- Added privacy indicator toggle 
+- Added per-app volume
+- Fixed DSR
+- and bug fixes & improvement
+
+=====================
 02th December,2024
 =====================
 Device:
