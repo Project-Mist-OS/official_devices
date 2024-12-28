@@ -1,0 +1,29 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Caiman
+Device maintainer: OscarM
+
+=====================
+27th December,2024
+=====================
+Device:
+- Initial A15 build
+- Thanks Team MistOS
+
+Sources:
+- Fixed LMOFreeform service & sidebar
+- Added notification style & progress bar (credit to Rising)
+- Added header clock style 
+- Revamped setting Homepage Ui
+- Redesign About Phone Ui
+- Redesign MistLauncher Ui (Credit to LMODroid)
+- Added dual tone QS background 
+- Added split notification shade
+- Added OEM fast charging 
+- Added auto sleep mode
+- Added Smart5G - with toggle in internet connectivity 
+- Added privacy indicator toggle 
+- Added per-app volume
+- Fixed DSR
+- and bug fixes & improvement
+
