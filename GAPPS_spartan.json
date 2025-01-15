@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "MistOS-3.2-Stable-OFFICIAL-20250115-GAPPS-spartan.zip",
+			"download": "https://sourceforge.net/projects/project-mistos/files/Android15/spartan/MistOS-3.2-Stable-OFFICIAL-20250115-GAPPS-spartan.zip/download",
+			"timestamp": 1736935342,
+			"md5": "acb15f1acd21538406a29ddcbd9912c8",
+			"sha256": "4b04be21bec4ba78fa18b3d76ace0992e1e35b284d15b7fa61232dec15793b9f",
+			"size": 2999805405,
+			"version": "3.2-Rayleigh",
+			"buildtype": "Stable",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
